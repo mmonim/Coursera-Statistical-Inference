@@ -1,5 +1,5 @@
 ---
-title: "ToothGrowth Inferential Analysis - Statistical Inference Course Project 1"
+title: "ToothGrowth Inferential Analysis - Statistical Inference Course Project 2"
 author: "Mohamed Ali"
 date: "August 20, 2016"
 output:
@@ -13,8 +13,6 @@ setwd("C:/Users/Mohamed/Documents/Coursera/Statistical Inference/Week 4 Project/
 library(knitr)
 opts_chunk$set(fig.width=10, fig.height=8, warning=FALSE, message=FALSE)
 ```
-
-# Statistical Inference Course Project 2
 
 ## Overview
 In this referential analysis I followed below steps:

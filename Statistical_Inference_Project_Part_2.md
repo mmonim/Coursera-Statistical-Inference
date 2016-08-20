@@ -1,10 +1,8 @@
-# ToothGrowth Inferential Analysis - Statistical Inference Course Project 1
+# ToothGrowth Inferential Analysis - Statistical Inference Course Project 2
 Mohamed Ali  
 August 20, 2016  
 
 
-
-# Statistical Inference Course Project 2
 
 ## Overview
 In this referential analysis I followed below steps:
